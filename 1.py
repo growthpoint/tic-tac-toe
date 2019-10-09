@@ -1,3 +1,3 @@
 a = int(input())
-number_two = (print("второе число"))(int(input())
+number_two = int(input('введите второе число: '))
 print(a + b)
