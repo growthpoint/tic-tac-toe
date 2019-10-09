@@ -1,3 +1,4 @@
 a = int(input())
-b = int(input())
-print(a + b)
+b = int(input())  
+sum_of_numbers = number_one + number_two
+print(sum_of_numbers)
